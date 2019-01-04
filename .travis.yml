@@ -1,4 +1,6 @@
 language: scala
+git:
+  depth: false
 matrix:
   include:
     - os: linux
